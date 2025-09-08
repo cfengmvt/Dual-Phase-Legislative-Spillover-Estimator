@@ -114,3 +114,55 @@ Note. Shown are the input features (agencies) found to have the five highest and
 
 SHAP values, as displayed in Figure 6, indicate that increasing funding for the CIA has the highest correlation with increasing income inequality, while increasing funding for the FBP has the highest correlation with decreasing income inequality. Pursuing the latter further, the three inputs with the lowest SHAP values are all associated with the U.S. justice system, while the two inputs with the highest SHAP values are both associated with foreign policy.
 
+# References
+*(Citations for full paper; not all are used here)*
+
+6, P. (2014), EXPLAINING UNINTENDED AND UNEXPECTED CONSEQUENCES OF POLICY DECISIONS: COMPARING THREE BRITISH GOVERNMENTS, 1959–74. Public Admin, 92: 673-691.
+
+Awan, A. A. (2023, June 28). An Introduction to SHAP Values and Machine Learning Interpretability. DataCamp. Retrieved May 30, 2025, from www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability
+
+Brownlee, J. (2020, November 1). Random Forest for Time Series Forecasting. Machine Learning Mastery. Retrieved May 29, 2025, from machinelearningmastery.com/random-forest-for-time-series-forecasting/
+
+CTOL Editors. (2025, January 1). Microsoft Paper slip: GPT-4O-Mini’s 8B size could unlock IPhone’s AI future. CTOL Digital Solutions. www.ctol.digital/news/microsoft-paper-slip-gpt4o-mini-8b-size-could-unlock-iphone-ai-future/
+
+Francetic, I., Meacock, R., Elliott, J., Kristensen, S. R., Britteon, P., Lugo-Palacios, D. G., Wilson, P., & Sutton, M. (2022). Framework for identification and measurement of spillover effects in policy implementation: intended non-intended targeted non-targeted spillovers (INTENTS). Implementation science communications, 3(1), 30. doi.org/10.1186/s43058-022-00280-8
+
+GeeksforGeeks. (2025, May 25). Principal Component Analysis(PCA). GeeksforGeeks. www.geeksforgeeks.org/principal-component-analysis-pca/
+
+H.R.3548 - 119th Congress (2025-2026): Infrastructure Expansion Act of 2025. (2025, May 21). www.congress.gov/bill/119th-congress/house-bill/3548
+
+Jelveh, Z., Kogut, B., & Naidu, S. (2024). Political Language in Economics. The Economic Journal, 134(662), 2439–2469. doi.org/10.1093/ej/ueae026
+
+Makos, J. (2024, September 13). What is PESTLE Analysis? (Free Template). PESTLE Analysis. www.pestleanalysis.com/what-is-pestle-analysis/
+
+OpenAI. (2024). Is ChatGPT biased? OpenAI Help Center. Retrieved May 30, 2025, from help.openai.com/en/articles/8313359-is-chatgpt-biased
+
+OpenAI. (n.d.). Prompt engineering. OpenAI API. Retrieved May 28, 2025, from platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results
+
+OpenAI. (n.d.). What are tokens and how to count them? OpenAI Help Center. Retrieved May 28, 2025, from help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+
+Peters, G. (2025, March 31). Cementing Michigan’s Leadership in National Security, Advanced Manufacturing, and Innovation [Q&A]. Detroit Economic Club, Masonic Temple, Detroit, MI, United States.
+
+Policy Analyst Trends. (2024, July 25). Retrieved June 2, 2025, from www.zippia.com/policy-analyst-jobs/trends/
+
+RandomForestRegressor. (n.d.). Scikit-learn. www.scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+Rasifaghihi, N. (2023, November 14). From Theory to practice: Implementing support vector regression for predictions in Python. Medium. www.medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
+
+Saturno, J. V., Heniff, B. Jr., Lynch, M. S., & Congressional Research Service. (2016). The Congressional Appropriations Process: An Introduction (Report No. R42388). Congressional Research Service. www.sgp.fas.org/crs/misc/R42388.pdf
+
+SVR. (n.d.). Scikit-learn. www.scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
+
+UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction — umap 0.5.8 documentation. (n.d.). www.umap-learn.readthedocs.io/en/latest/
+
+United States Government Publishing Office. (2024, March 11). GovInfo. Budget FY 2025 - Outlays. Retrieved March 12, 2025, from www.govinfo.gov/app/details/BUDGET-2025-DB/BUDGET-2025-DB-2/context
+
+U.S. Census Bureau. (2024). Income distribution measures and percent change using money Income and Equivalence-Adjusted Income. United States Department of Commerce. www.census.gov/content/dam/Census/library/visualizations/2024/demo/p60-282/figure3.pdf
+
+U.S. Bureau of Labor Statistics. (2025, June 2). Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over [LES1252881600Q]. FRED, Federal Reserve Bank of St. Louis. Retrieved June 2, 2025 from fred.stlouisfed.org/series/LES1252881600Q
+
+Wikimedia contributors. (2025, May 25). Shapley value. Wikipedia. Retrieved May 30, 2025, from en.wikipedia.org/wiki/Shapley_value
+
+World Bank Group. (2022). Gini Index - United States. World Bank Open Data. Retrieved June 2, 2025, from data.worldbank.org/indicator/SI.POV.GINI?locations=US
+
+Ziametskaya, A. (n.d.). regression graph machine learning color icon illustration 57813445. Vecteezy. Retrieved June 3, 2025, from www.vecteezy.com/vector-art/57813445-regression-graph-machine-learning-color-icon-illustration
